@@ -1,4 +1,3 @@
-<script>
  !function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -13,4 +12,3 @@ fbq(&#39;init&#39;, &#39;615800536018747&#39;);
 fbq(&#39;init&#39;, &#39;2943545902379717&#39;);
   fbq(&#39;track&#39;, &#39;PageView&#39;);
 fbq(&#39;track&#39;, &#39;ViewContent&#39;);
-</script>
